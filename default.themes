@@ -1,18 +1,12 @@
 [
-   {
-    "match": [{ "datasourceId": "S5PO3", "layerId": "O3_VISUALIZED" }],
-    "legend": {
-      "type": "continuous",
-      "minPosition": 0.0,
-      "maxPosition": 0.36,
-      "gradients": [
-        { "position": 0, "color": "#000080", "label": "0.0" },
-        { "position": 0.072, "color": "#4000ff", "label": "0.072" },
-        { "position": 0.144, "color": "#00ffff", "label": "0.144" },
-        { "position": 0.216, "color": "#ffff00", "label": "0.216" },
-        { "position": 0.288, "color": "#ff0000", "label": "0.288" },
-        { "position": 0.36, "color": "#800000", "label": "0.36 [mol / m^2]" }
-      ]
+    {
+        "name": "Proba-V & S-5P",
+        "content": [
+            {
+                "name": "Proba-V",
+                "service": "WMS",                   
+            },
+          
+        ]
     }
-  }
 ]
