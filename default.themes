@@ -1,13 +1,11 @@
 [
     {
-        "name": "Proba-V & S-5P",
+        "name": "S2",
         "content": [           
             {
-                "name": "S-5P",
+                "name": "S2",
                 "service": "WMS",
-                "url": "https://eocloud.sentinel-hub.com/v1/wms/7a63bd13-6a14-43df-be62-c1d601d78bf1"
-                 "__url": "https://eocloud.sentinel-hub.com/v1/wms/11f6ec68-179b-43b8-8996-70305cee0942",
-
+                "url": https://services.sentinel-hub.com/ogc/wms/cd280189-7c51-45a6-ab05-f96a76067710"
             }
         ]
     }
