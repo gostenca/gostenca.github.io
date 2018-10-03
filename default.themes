@@ -4,7 +4,8 @@
         "content": [
             {
                 "name": "Proba-V",
-                "service": "WMS",                   
+                "service": "WMS",         
+                "url": "https://proba-v-mep.esa.int/applications/geo-viewer/app/geoserver/ows",
             },
           
         ]
